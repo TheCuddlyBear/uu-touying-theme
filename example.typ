@@ -7,10 +7,11 @@
   aspect-ratio: "16-9",
   config-info(
     title: [Title],
-    subtitle: [Functie],
+    subtitle: [Subtitel],
     author: [Authors],
     date: datetime.today(),
     institution: [NAAM SUB-AFZENDER],
+    short-subtitle: [Functie],
     logo: emoji.school,
   ),
 )
